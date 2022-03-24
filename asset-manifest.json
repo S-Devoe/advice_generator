@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/advice_generator/static/css/main.fd689661.css",
+    "main.js": "/github.io/advice_generator/static/js/main.e58ef354.js",
+    "index.html": "/github.io/advice_generator/index.html",
+    "main.fd689661.css.map": "/github.io/advice_generator/static/css/main.fd689661.css.map",
+    "main.e58ef354.js.map": "/github.io/advice_generator/static/js/main.e58ef354.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd689661.css",
+    "static/js/main.e58ef354.js"
+  ]
+}
